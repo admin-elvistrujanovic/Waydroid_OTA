@@ -1,0 +1,14 @@
+{
+  "system": {
+    "url": "https://waydroid-ota.pages.dev/system",
+    "branch": "lineageos",
+    "device": "waydroid_x86_64",
+    "flavor": "VANILLA"
+  },
+  "vendor": {
+    "url": "https://waydroid-ota.pages.dev/vendor",
+    "branch": "lineageos",
+    "device": "waydroid_x86_64",
+    "flavor": "VANILLA"
+  }
+}
